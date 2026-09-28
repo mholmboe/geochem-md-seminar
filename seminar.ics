@@ -23,7 +23,7 @@ BEGIN:VEVENT
 UID:geochem-md-seminar-20261001@umu.se
 DTSTAMP:20260928T000000Z
 DTSTART;TZID=Europe/Stockholm:20261001T090000
-DTEND;TZID=Europe/Stockholm:20261001T110000
+DTEND;TZID=Europe/Stockholm:20261001T113000
 SUMMARY:Mini-seminar: MD simulations of clays and geochemical systems
 LOCATION:Aktern/Fören\, Department of Chemistry\, Umeå University
 URL:https://link.mazemap.com/yPEYxXDe
